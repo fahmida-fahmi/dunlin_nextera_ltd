@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Acme Corp",
+    "review": "Amazing service and support!",
+    "stars": 5
+  },
+  {
+    "company": "BizTech Solutions",
+    "review": "Streamlined our operations effortlessly.",
+    "stars": 4
+  },
+  {
+    "company": "Greenline Industries",
+    "review": "Reliable and professional team.",
+    "stars": 5
+  },
+  {
+    "company": "Nova Enterprises",
+    "review": "Impressed with the responsiveness.",
+    "stars": 4
+  }
+]

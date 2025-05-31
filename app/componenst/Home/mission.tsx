@@ -1,5 +1,5 @@
 'use client';
-import { Box, Typography } from "@mui/material";
+import {  Typography } from "@mui/material";
 import Lottie from "lottie-react";
 import { motion } from "framer-motion";
 import missionAnimation from "@/public/animation/mission.json"; // Your Lottie animation
